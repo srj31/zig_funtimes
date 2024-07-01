@@ -1,0 +1,3 @@
+[submodule "ziglings.org"]
+	path = ziglings.org
+	url = https://codeberg.org/srj31/exercises.git
